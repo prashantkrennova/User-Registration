@@ -1,0 +1,24 @@
+D:\New folder (2)\UserRegistration\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+D:\New folder (2)\UserRegistration\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+D:\New folder (2)\UserRegistration\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+D:\New folder (2)\UserRegistration\Infrastructure\bin\Debug\netstandard2.1\Core.dll
+D:\New folder (2)\UserRegistration\Infrastructure\bin\Debug\netstandard2.1\Core.pdb
+D:\New folder (2)\UserRegistration\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csprojAssemblyReference.cache
+D:\New folder (2)\UserRegistration\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+D:\New folder (2)\UserRegistration\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.cs
+D:\New folder (2)\UserRegistration\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\New folder (2)\UserRegistration\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CopyComplete
+D:\New folder (2)\UserRegistration\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+D:\New folder (2)\UserRegistration\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb
+E:\HELPTEST\Task\User-Registration\UserRegistration\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+E:\HELPTEST\Task\User-Registration\UserRegistration\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+E:\HELPTEST\Task\User-Registration\UserRegistration\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+E:\HELPTEST\Task\User-Registration\UserRegistration\Infrastructure\bin\Debug\netstandard2.1\Core.dll
+E:\HELPTEST\Task\User-Registration\UserRegistration\Infrastructure\bin\Debug\netstandard2.1\Core.pdb
+E:\HELPTEST\Task\User-Registration\UserRegistration\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csprojAssemblyReference.cache
+E:\HELPTEST\Task\User-Registration\UserRegistration\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+E:\HELPTEST\Task\User-Registration\UserRegistration\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.cs
+E:\HELPTEST\Task\User-Registration\UserRegistration\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CopyComplete
+E:\HELPTEST\Task\User-Registration\UserRegistration\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+E:\HELPTEST\Task\User-Registration\UserRegistration\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb
+E:\HELPTEST\Task\User-Registration\UserRegistration\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache

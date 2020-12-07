@@ -1,0 +1,18 @@
+D:\New folder (2)\UserRegistration\Core\bin\Debug\netstandard2.0\Core.deps.json
+D:\New folder (2)\UserRegistration\Core\bin\Debug\netstandard2.0\Core.dll
+D:\New folder (2)\UserRegistration\Core\bin\Debug\netstandard2.0\Core.pdb
+D:\New folder (2)\UserRegistration\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+D:\New folder (2)\UserRegistration\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+D:\New folder (2)\UserRegistration\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+D:\New folder (2)\UserRegistration\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+D:\New folder (2)\UserRegistration\Core\obj\Debug\netstandard2.0\Core.dll
+D:\New folder (2)\UserRegistration\Core\obj\Debug\netstandard2.0\Core.pdb
+E:\HELPTEST\Task\User-Registration\UserRegistration\Core\bin\Debug\netstandard2.0\Core.deps.json
+E:\HELPTEST\Task\User-Registration\UserRegistration\Core\bin\Debug\netstandard2.0\Core.dll
+E:\HELPTEST\Task\User-Registration\UserRegistration\Core\bin\Debug\netstandard2.0\Core.pdb
+E:\HELPTEST\Task\User-Registration\UserRegistration\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+E:\HELPTEST\Task\User-Registration\UserRegistration\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+E:\HELPTEST\Task\User-Registration\UserRegistration\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+E:\HELPTEST\Task\User-Registration\UserRegistration\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+E:\HELPTEST\Task\User-Registration\UserRegistration\Core\obj\Debug\netstandard2.0\Core.dll
+E:\HELPTEST\Task\User-Registration\UserRegistration\Core\obj\Debug\netstandard2.0\Core.pdb
