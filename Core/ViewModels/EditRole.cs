@@ -7,6 +7,7 @@ namespace Core.ViewModels
 {
     public class EditRole
     {
+        //EditRoleView
         public EditRole()
         {
             Users = new List<string>();
